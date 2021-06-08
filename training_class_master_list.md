@@ -12,7 +12,7 @@ The following list of classes are those used in all training data sets for the M
 6. *Sponge spicule*
 7. *Bivalve*
 8. *Calcimicrobe*
-9. *microbial texture*
+
 
 ### 2. **Grain**
 1. *Ooid*
@@ -29,6 +29,7 @@ The following list of classes are those used in all training data sets for the M
 3. *Siliciclastic clay*
 4. *Cement*
 5. *Recrystalized calcite*
+6. *microbial texture*
 
 ### 4. **Other**
 1. *Crack*
