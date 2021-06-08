@@ -18,20 +18,19 @@ The following list of classes are those used in all training data sets for the M
 1. *Ooid*
 2. *Peloid*
 3. *Quartz*
-4. *Recrystalized calcite*
-5. *Carbonate fragment*
-6. *Dolomite crystal*
+4. *Carbonate fragment*
+5. *Dolomite crystal*
 
 
-### 3. **Mud**
-1. *Micrite*
-2. *Dolomite*
+### 3. **Matrix**
+1. *Undefined*
+1. *Micrite mud*
+2. *Dolomite mud*
 3. *Siliciclastic clay*
+4. *Cement*
+5. *Recrystalized calcite*
 
-### 4. **Cement**
-1. *Microspar*
-
-### 5. **Other**
+### 4. **Other**
 1. *Crack*
 2. *Vein*
 3. *Stylolite*
