@@ -20,6 +20,7 @@ The following list of classes are those used in all training data sets for the M
 3. *Quartz*
 4. *Carbonate fragment*
 5. *Dolomite crystal*
+6. *Oxide*
 
 
 ### 3. **Matrix**
